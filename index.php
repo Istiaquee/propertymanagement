@@ -2,9 +2,7 @@
 session_start();
 echo $_SESSION['id'];
 
-if (isset($_GET['logout'])) {
-    echo 'logout';
-}
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
