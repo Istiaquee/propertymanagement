@@ -1,0 +1,10 @@
+
+.widthsix{
+    width: 660px !important;
+}
+.addbtn{
+    border: 1px solid #48ad0e;
+    background: #198754;
+    color: #ece1d1 !important;
+    border-radius: 5px;
+}
